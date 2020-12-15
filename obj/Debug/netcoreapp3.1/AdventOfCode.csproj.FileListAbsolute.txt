@@ -1,0 +1,15 @@
+I:\ftp_kansio\Arttu\AdventOfCode\obj\Debug\netcoreapp3.1\AdventOfCode.csprojAssemblyReference.cache
+I:\ftp_kansio\Arttu\AdventOfCode\obj\Debug\netcoreapp3.1\AdventOfCode.csproj.CoreCompileInputs.cache
+I:\ftp_kansio\Arttu\AdventOfCode\obj\Debug\netcoreapp3.1\AdventOfCode.AssemblyInfoInputs.cache
+I:\ftp_kansio\Arttu\AdventOfCode\obj\Debug\netcoreapp3.1\AdventOfCode.AssemblyInfo.cs
+I:\ftp_kansio\Arttu\AdventOfCode\bin\Debug\netcoreapp3.1\AdventOfCode.exe
+I:\ftp_kansio\Arttu\AdventOfCode\bin\Debug\netcoreapp3.1\AdventOfCode.deps.json
+I:\ftp_kansio\Arttu\AdventOfCode\bin\Debug\netcoreapp3.1\AdventOfCode.runtimeconfig.json
+I:\ftp_kansio\Arttu\AdventOfCode\bin\Debug\netcoreapp3.1\AdventOfCode.runtimeconfig.dev.json
+I:\ftp_kansio\Arttu\AdventOfCode\bin\Debug\netcoreapp3.1\AdventOfCode.dll
+I:\ftp_kansio\Arttu\AdventOfCode\bin\Debug\netcoreapp3.1\AdventOfCode.pdb
+I:\ftp_kansio\Arttu\AdventOfCode\obj\Debug\netcoreapp3.1\AdventOfCode.dll
+I:\ftp_kansio\Arttu\AdventOfCode\obj\Debug\netcoreapp3.1\AdventOfCode.pdb
+I:\ftp_kansio\Arttu\AdventOfCode\obj\Debug\netcoreapp3.1\AdventOfCode.genruntimeconfig.cache
+I:\ftp_kansio\Arttu\AdventOfCode\bin\Debug\netcoreapp3.1\MoreLinq.dll
+I:\ftp_kansio\Arttu\AdventOfCode\obj\Debug\netcoreapp3.1\AdventOfCode.csproj.CopyComplete

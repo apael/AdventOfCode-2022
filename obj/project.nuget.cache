@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ojl4lvS+nWXJnQkI/xWc0qzo0tbVUbbPpvHdaaNGF6qTKcCOS3ehhai24pSQCou4c8Mm+ILwzIi/uCyD4I9DFQ==",
+  "success": true,
+  "projectFilePath": "I:\\ftp_kansio\\Arttu\\AdventOfCode\\AdventOfCode.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mikko\\.nuget\\packages\\morelinq\\3.3.2\\morelinq.3.3.2.nupkg.sha512"
+  ],
+  "logs": []
+}
