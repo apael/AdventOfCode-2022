@@ -1,0 +1,88 @@
+element: departure track column: 1
+element: arrival platform column: 1
+element: price column: 1
+element: route column: 1
+element: train column: 1
+element: zone column: 1
+element: arrival platform column: 3
+element: price column: 3
+element: route column: 3
+element: train column: 3
+element: train column: 7
+element: price column: 9
+element: route column: 9
+element: train column: 9
+element: price column: 10
+element: train column: 10
+element: departure location column: 11
+element: departure station column: 11
+element: departure platform column: 11
+element: departure track column: 11
+element: departure date column: 11
+element: departure time column: 11
+element: arrival platform column: 11
+element: price column: 11
+element: route column: 11
+element: train column: 11
+element: zone column: 11
+element: departure location column: 12
+element: departure station column: 12
+element: departure platform column: 12
+element: departure track column: 12
+element: departure date column: 12
+element: departure time column: 12
+element: arrival platform column: 12
+element: price column: 12
+element: route column: 12
+element: row column: 12
+element: train column: 12
+element: zone column: 12
+element: departure platform column: 15
+element: departure track column: 15
+element: departure date column: 15
+element: arrival platform column: 15
+element: price column: 15
+element: route column: 15
+element: train column: 15
+element: zone column: 15
+element: departure location column: 16
+element: departure station column: 16
+element: departure platform column: 16
+element: departure track column: 16
+element: departure date column: 16
+element: departure time column: 16
+element: arrival platform column: 16
+element: duration column: 16
+element: price column: 16
+element: route column: 16
+element: row column: 16
+element: train column: 16
+element: type column: 16
+element: zone column: 16
+element: departure location column: 18
+element: departure station column: 18
+element: departure platform column: 18
+element: departure track column: 18
+element: departure date column: 18
+element: departure time column: 18
+element: arrival location column: 18
+element: arrival station column: 18
+element: arrival platform column: 18
+element: arrival track column: 18
+element: class column: 18
+element: duration column: 18
+element: price column: 18
+element: route column: 18
+element: row column: 18
+element: seat column: 18
+element: train column: 18
+element: type column: 18
+element: wagon column: 18
+element: zone column: 18
+element: departure track column: 19
+element: departure date column: 19
+element: arrival platform column: 19
+element: price column: 19
+element: route column: 19
+element: train column: 19
+element: zone column: 19

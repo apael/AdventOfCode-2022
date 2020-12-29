@@ -14,9 +14,9 @@ namespace AdventOfCode
         static void Main(string[] args)
         {
 
-            //d13.dayfunc();
+            d20.dayfunc();
             //day4.day4func();
-            d13.increment2(67555, 61, 1);
+            // d13.increment2(67555, 61, 1);
         }
     }
 }
